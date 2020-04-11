@@ -11,7 +11,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!"
-        app:layout_constraintBottom_toTopOf="@+id/camera-button"
+        app:layout_constraintBottom_toTopOf="@+id/cameraButton"
         app:layout_constraintHorizontal_bias="0.817"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
@@ -62,7 +62,7 @@
     </TableLayout>
 
     <ImageButton
-        android:id="@+id/camera-button"
+        android:id="@+id/cameraButton"
         style="@style/Widget.AppCompat.ImageButton"
         android:layout_width="100dp"
         android:layout_height="100dp"

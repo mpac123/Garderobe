@@ -2,5 +2,4 @@
     <string name="app_name">Garderobe</string>
     <string name="wardrobe_header">your wardrobe</string>
     <string name="inspirations_header">get inspired</string>
-    <string name="photo_header">take a photo</string>
 </resources>
